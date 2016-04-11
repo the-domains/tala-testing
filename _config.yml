@@ -1,0 +1,28 @@
+name: 'Tala Testing '
+favicon: null
+layout_spectrum: 0.49203741597011685
+typography_spectrum: 0.6100601912476122
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.27172409649938345
+  lightness: 0.15786515944637358
+  saturation: 0.1494343203958124
+  rhythmicContrast: 0.25409420556388795
+purpose: []
