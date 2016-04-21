@@ -5,30 +5,30 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "We are comprised of vibrations. \_When we become ill , either physically, emotionally and/or mentally, our vibrations become disrupted and we are no longer vibrating at our natural frequency. Sound Therapy is a non invasive and holistic approach used to alter ones vibration to help aid in healing, using sound as a medicine.\_"
-datePublished: '2016-04-11T23:51:46.762Z'
-dateModified: '2016-04-11T23:44:13.998Z'
-title: "What is Sound Therapy?\_"
+description: 'We are comprised of vibrations. When we become ill , either physically, emotionally and/or mentally, our vibrations become disrupted and we are no longer vibrating at our natural frequency. Sound Therapy is a non invasive and holistic approach used to alter ones vibration to help aid in healing, using sound as a medicine. '
+datePublished: '2016-04-21T00:23:36.683Z'
+dateModified: '2016-04-21T00:12:10.045Z'
+title: 'What is Sound Therapy? '
 author: []
+sourcePath: _posts/2016-04-11-what-is-sound-therapy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-11-what-is-sound-therapy.md
-published: true
 url: what-is-sound-therapy/index.html
 _type: Article
 
 ---
 # What is Sound Therapy? 
 
-We are comprised of vibrations.  When we become ill , either physically, emotionally and/or mentally, our vibrations become disrupted and we are no longer vibrating at our natural frequency. Sound Therapy is a non invasive and holistic approach used to alter ones vibration to help aid in healing, using sound as a medicine. 
+We are comprised of vibrations. When we become ill , either physically, emotionally and/or mentally, our vibrations become disrupted and we are no longer vibrating at our natural frequency. Sound Therapy is a non invasive and holistic approach used to alter ones vibration to help aid in healing, using sound as a medicine. 
 
 # Who benefits from Sound Therapy? 
 
-Sound Therapy is an excellent holistic approach in helping those whom are:   
+Sound Therapy is an excellent holistic approach in helping those whom are: 
 
 * Stressed
 * Anxious
