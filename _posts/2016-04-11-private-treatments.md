@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Each treatment begins with a consultation followed by a tailored Sound treatment. SOUND VIBRATIONS are used to help rebalance your body. A variety of musical instruments, tuning forks, the human voice and energy are used on and around the body. '
-datePublished: '2016-04-21T01:01:40.649Z'
-dateModified: '2016-04-21T01:01:28.340Z'
+datePublished: '2016-04-21T01:03:29.620Z'
+dateModified: '2016-04-21T01:02:57.059Z'
 title: 'Private Treatments '
 author: []
 sourcePath: _posts/2016-04-11-private-treatments.md
