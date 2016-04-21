@@ -23,6 +23,6 @@ color:
     - '#ffafcd'
   brandStrength: 0
   lightness: 1
-  saturation: 0
+  saturation: 1
   rhythmicContrast: 0.5
 purpose: []
