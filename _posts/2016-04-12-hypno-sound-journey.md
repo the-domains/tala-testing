@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ' New Beginnings & Taking Action'
-datePublished: '2016-04-21T00:20:40.475Z'
-dateModified: '2016-04-21T00:19:59.092Z'
+datePublished: '2016-04-21T00:21:13.871Z'
+dateModified: '2016-04-21T00:20:48.418Z'
 title: Hypno-Sound Journey
 author: []
 sourcePath: _posts/2016-04-12-hypno-sound-journey.md
