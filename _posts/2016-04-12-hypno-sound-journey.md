@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ New Beginnings & Taking Action"
-datePublished: '2016-04-21T00:11:48.176Z'
-dateModified: '2016-04-12T00:16:04.892Z'
+description: ' New Beginnings & Taking Action'
+datePublished: '2016-04-21T00:20:40.475Z'
+dateModified: '2016-04-21T00:19:59.092Z'
 title: Hypno-Sound Journey
 author: []
 sourcePath: _posts/2016-04-12-hypno-sound-journey.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: hypno-sound-journey/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Hypno-Sound Journey
